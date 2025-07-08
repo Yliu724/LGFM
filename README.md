@@ -22,7 +22,7 @@ cd LGFM
 ```
 Note that LGFM requires [HDR Toolbox](https://github.com/banterle/HDR_Toolbox).
 
-<<<<<<< HEAD
+
 ### Local-global frequency feature-based model for HDR image Quality Assessment
 <!-- <div align=center><img src="./figures/flowchart.png" width = "100%" height = "100%" /></div> -->
 <div align=center><img src="./figures/flowchart.png" width = "800" /></div>
@@ -31,14 +31,7 @@ Note that LGFM requires [HDR Toolbox](https://github.com/banterle/HDR_Toolbox).
 <!-- <div align=center><img src="./figures/performance.png" width = "100%" height = "100%" /></div> -->
 <div align=center><img src="./figures/performance.png" width = "800" /></div>
 
-=======
-## Local-global frequency feature-based model for HDR image Quality Assessment
-<div align=center><img src="./figures/flowchart.png" width = "100%" height = "100%" /></div>
 
-
-## Experimental Results
-<div align=center><img src="./figures/performance.png" width = "100%" height = "100%" /></div>
->>>>>>> 1a6e052d5dc16ed8af867f36767f0a3d5cb069ec
 
 ## Citation
 
