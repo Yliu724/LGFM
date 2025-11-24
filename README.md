@@ -17,7 +17,7 @@ In this paper, a novel and effective image quality assessment (IQA) algorithm ba
 
 ## Installation
 ```
-git clone https://github.com/eezkni/LGEM --recursive
+git clone https://github.com/eezkni/LGFM --recursive
 cd LGFM
 ```
 Note that LGFM requires [HDR Toolbox](https://github.com/banterle/HDR_Toolbox).
